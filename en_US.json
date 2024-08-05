@@ -134,7 +134,13 @@
             "present": "Present",
             "na": "N/A",
             "reorder_entries": "Reorder entries by date",
-            "go_top": "Go Top"
+            "go_top": "Go Top",
+            "change_theme_parameters": "Change Theme Settings",
+            "reset_defaults": "Reset",
+            "close": "Close",
+            "store_to": "Store to",
+            "storage": "Storage",
+            "style": "Style"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Action Menu",
-                    "description": "Here you can load your JSON resume from a file, save the changes back into a JSON file, export your resume as HTML, or clear the form and start over."
+                    "description": "[p]Here you can load, save, and export your resume, or clear the form and start over.[/p][p]Also, you can select the language, change where to store your resume, and change the theme.[/p]"
                 },
                 {
                     "title": "View your resume",
@@ -161,14 +167,20 @@
             ],
             "view": [
                 {
-                    "title": "Styles",
-                    "description": "Change the appearance of your resume. Select a theme that suits your style."
-                },
-                {
                     "title": "Editor",
                     "description": "Go back to the editor from here."
                 }
             ]
         }
+    },
+    "dropbox": {
+        "coult_not_save": "Couldn't save the file",
+        "invalid_format": "The file is not a valid JSON Resume file",
+        "file_saved": "The file is saved!",
+        "loading_contents_wait": "Loading contents, please wait",
+        "save_here": "Save Here",
+        "export_here": "Export Here",
+        "click_to_load": "Click on the file to load it",
+        "file": "File"
     }
 }

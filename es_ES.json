@@ -134,7 +134,13 @@
             "present": "Presente",
             "na": "N/A",
             "reorder_entries": "Reordenar entradas por fecha",
-            "go_top": "Ir Arriba"
+            "go_top": "Ir Arriba",
+            "change_theme_parameters": "Cambiar parámetros del tema",
+            "reset_defaults": "Restablecer",
+            "close": "Cerrar",
+            "store_to": "Almacenar en",
+            "storage": "Almacenamiento",
+            "style": "Estilo"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Menú de Acción",
-                    "description": "Aquí puedes cargar tu currículum JSON desde un archivo, guardar los cambios de nuevo en un archivo JSON, exportar tu currículum como HTML o limpiar el formulario y empezar de nuevo."
+                    "description": "[p]Aquí puedes cargar, guardar y exportar tu currículum, o limpiar el formulario y empezar de nuevo.[/p][p]También puedes seleccionar el idioma, cambiar dónde guardar tu currículum y cambiar el tema.[/p]"
                 },
                 {
                     "title": "Ver tu currículum",
@@ -160,10 +166,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "Estilos",
-                    "description": "Cambia la apariencia de tu currículum. Selecciona un tema que se adapte a tu estilo."
-                },
                 {
                     "title": "Editor",
                     "description": "Vuelve al editor desde aquí."
@@ -214,5 +216,15 @@
             "e.g. Directs you close but not quite there": "por ejemplo, Te lleva cerca pero no exactamente allí",
             "e.g. AngularJS": "por ejemplo, AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "No se pudo guardar el archivo",
+        "invalid_format": "El archivo no es un archivo JSON Resume válido",
+        "file_saved": "¡El archivo está guardado!",
+        "loading_contents_wait": "Cargando contenidos, por favor espere",
+        "save_here": "Guardar aquí",
+        "export_here": "Exportar aquí",
+        "click_to_load": "Haz clic en el archivo para cargarlo",
+        "file": "Archivo"
     }
 }

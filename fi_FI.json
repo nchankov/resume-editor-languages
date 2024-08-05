@@ -134,7 +134,13 @@
             "present": "Nykyinen",
             "na": "N/A",
             "reorder_entries": "Järjestä merkinnät päivämäärän mukaan",
-            "go_top": "Ylös"
+            "go_top": "Ylös",
+            "change_theme_parameters": "Vaihda teeman asetuksia",
+            "reset_defaults": "Palauta",
+            "close": "Sulje",
+            "store_to": "Tallenna",
+            "storage": "Tallennus",
+            "style": "Tyyli"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Toimintovalikko",
-                    "description": "Täällä voit ladata json-ansioluettelosi tiedostosta, tallentaa muutokset takaisin json-tiedostoon, viedä ansioluettelosi html-muodossa tai tyhjentää lomakkeen ja aloittaa alusta."
+                    "description": "[p]Täällä voit ladata, tallentaa ja viedä ansioluettelosi tai tyhjentää lomakkeen ja aloittaa alusta.[/p][p]Voit myös valita kielen, muuttaa ansioluettelosi tallennuspaikan ja vaihtaa teemaa.[/p]"
                 },
                 {
                     "title": "Katso ansioluetteloasi",
@@ -160,10 +166,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "Tyylit",
-                    "description": "Vaihda ansioluettelon ulkoasua. Valitse teema, joka sopii tyyliisi."
-                },
                 {
                     "title": "Editori",
                     "description": "Palaa editoriin tästä"
@@ -214,5 +216,15 @@
             "e.g. Directs you close but not quite there": "esim. Ohjaa sinut lähelle, mutta ei aivan perille",
             "e.g. AngularJS": "esim. AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "Tiedostoa ei voitu tallentaa",
+        "invalid_format": "Tiedosto ei ole kelvollinen JSON Resume -tiedosto",
+        "file_saved": "Tiedosto on tallennettu!",
+        "loading_contents_wait": "Sisältöä ladataan, ole hyvä ja odota",
+        "save_here": "Tallenna tänne",
+        "export_here": "Vie tänne",
+        "click_to_load": "Napsauta tiedostoa ladataksesi sen",
+        "file": "Tiedosto"
     }
 }

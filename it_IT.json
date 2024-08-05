@@ -134,7 +134,13 @@
             "present": "Presente",
             "na": "N/A",
             "reorder_entries": "Riordina le voci per data",
-            "go_top": "Vai all'inizio"
+            "go_top": "Vai all'inizio",
+            "change_theme_parameters": "Cambia parametri del tema",
+            "reset_defaults": "Ripristina",
+            "close": "Chiudi",
+            "store_to": "Salva in",
+            "storage": "Memoria",
+            "style": "Stile"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Menu Azioni",
-                    "description": "Qui puoi caricare il tuo curriculum JSON da un file, salvare le modifiche di nuovo in un file JSON, esportare il tuo curriculum come HTML o cancellare il modulo e ricominciare da capo."
+                    "description": "[p]Qui puoi caricare, salvare ed esportare il tuo curriculum, oppure cancellare il modulo e ricominciare.[/p][p]Puoi anche selezionare la lingua, cambiare dove memorizzare il tuo curriculum e cambiare il tema.[/p]"
                 },
                 {
                     "title": "Visualizza il tuo curriculum",
@@ -160,10 +166,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "Stili",
-                    "description": "Cambia l'aspetto del tuo curriculum. Seleziona un tema che si adatti al tuo stile."
-                },
                 {
                     "title": "Editor",
                     "description": "Torna all'editor da qui."
@@ -214,5 +216,15 @@
             "e.g. Directs you close but not quite there": "ad esempio, Ti indirizza vicino ma non proprio lì",
             "e.g. AngularJS": "ad esempio, AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "Impossibile salvare il file",
+        "invalid_format": "Il file non è un file JSON Resume valido",
+        "file_saved": "Il file è stato salvato!",
+        "loading_contents_wait": "Caricamento dei contenuti, per favore attendere",
+        "save_here": "Salva qui",
+        "export_here": "Esporta qui",
+        "click_to_load": "Fai clic sul file per caricarlo",
+        "file": "File"
     }
 }

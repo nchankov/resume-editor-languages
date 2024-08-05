@@ -134,7 +134,13 @@
             "present": "现在",
             "na": "N/A",
             "reorder_entries": "按日期重新排序条目",
-            "go_top": "回到顶部"
+            "go_top": "回到顶部",
+            "change_theme_parameters": "更改主题参数",
+            "reset_defaults": "重置",
+            "close": "关闭",
+            "store_to": "存储到",
+            "storage": "存储",
+            "style": "样式"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "操作菜单",
-                    "description": "您可以从这里加载JSON格式的简历文件，将更改保存回JSON文件，将您的简历导出为HTML，或清除表单并重新开始。"
+                    "description": "[p]在这里，您可以加载、保存和导出简历，或清除表单并重新开始。[/p][p]您还可以选择语言，更改存储简历的位置以及更改主题。[/p]"
                 },
                 {
                     "title": "查看您的简历",
@@ -160,10 +166,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "样式",
-                    "description": "更改您的简历外观。选择适合您风格的主题。"
-                },
                 {
                     "title": "编辑器",
                     "description": "从这里返回编辑器。"
@@ -214,5 +216,15 @@
             "e.g. Directs you close but not quite there": "例如，指引你接近但还不太接近",
             "e.g. AngularJS": "例如，AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "无法保存文件",
+        "invalid_format": "该文件不是有效的 JSON Resume 文件",
+        "file_saved": "文件已保存！",
+        "loading_contents_wait": "加载内容中，请稍候",
+        "save_here": "在此保存",
+        "export_here": "在此导出",
+        "click_to_load": "点击文件以加载",
+        "file": "文件"
     }
 }

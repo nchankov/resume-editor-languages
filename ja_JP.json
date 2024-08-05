@@ -132,7 +132,13 @@
             "present": "現在",
             "na": "該当なし",
             "reorder_entries": "エントリを日付順に並べ替える",
-            "go_top": "上に行きます"
+            "go_top": "上に行きます",
+            "change_theme_parameters": "テーマ設定を変更",
+            "reset_defaults": "リセット",
+            "close": "閉じる",
+            "store_to": "保存先",
+            "storage": "ストレージ",
+            "style": "スタイル"
         },
         "help": {
             "modal": {
@@ -146,7 +152,7 @@
                 },
                 {
                     "title": "アクションメニュー",
-                    "description": "ここからJSON形式の履歴書をファイルから読み込み、変更をJSONファイルに保存、履歴書をHTMLとしてエクスポート、またはフォームをクリアして最初からやり直すことができます。"
+                    "description": "[p]ここでは履歴書をロード、保存、エクスポートすることができます。また、フォームをクリアして再開することもできます。[/p][p]言語を選択したり、履歴書の保存場所を変更したり、テーマを変更したりすることもできます。[/p]"
                 },
                 {
                     "title": "履歴書の表示",
@@ -158,10 +164,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "スタイル",
-                    "description": "履歴書の外観を変更します。スタイルに合ったテーマを選択してください。"
-                },
                 {
                     "title": "エディター",
                     "description": "ここからエディターに戻ります。"
@@ -212,5 +214,15 @@
             "e.g. Directs you close but not quite there": "例：あなたを近くに導きますが、まだそこではありません",
             "e.g. AngularJS": "例：AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "ファイルを保存できませんでした",
+        "invalid_format": "ファイルは有効なJSON Resumeファイルではありません",
+        "file_saved": "ファイルが保存されました！",
+        "loading_contents_wait": "コンテンツを読み込んでいます。しばらくお待ちください",
+        "save_here": "ここに保存",
+        "export_here": "ここにエクスポート",
+        "click_to_load": "ファイルをクリックして読み込む",
+        "file": "ファイル"
     }
 }

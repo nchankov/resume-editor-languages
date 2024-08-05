@@ -134,7 +134,13 @@
             "present": "Prezent",
             "na": "N/A",
             "reorder_entries": "Reordonează intrările după dată",
-            "go_top": "Mergi sus"
+            "go_top": "Mergi sus",
+            "change_theme_parameters": "Schimbă parametrii temei",
+            "reset_defaults": "Resetează",
+            "close": "Închide",
+            "store_to": "Salvează în",
+            "storage": "Stocare",
+            "style": "Stil"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Meniu Acțiuni",
-                    "description": "Aici puteți încărca CV-ul JSON dintr-un fișier, salva modificările înapoi într-un fișier JSON, exporta CV-ul ca HTML sau șterge formularul și începe de la capăt."
+                    "description": "[p]Aici puteți încărca, salva și exporta CV-ul sau puteți șterge formularul și începe de la început.[/p][p]De asemenea, puteți selecta limba, schimba locul de stocare al CV-ului și schimba tema.[/p]"
                 },
                 {
                     "title": "Vizualizează CV-ul",
@@ -160,10 +166,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "Stiluri",
-                    "description": "Schimbați aspectul CV-ului. Selectați o temă care se potrivește stilului dumneavoastră."
-                },
                 {
                     "title": "Editor",
                     "description": "Întoarceți-vă la editor de aici"
@@ -214,5 +216,15 @@
             "e.g. Directs you close but not quite there": "ex. Te direcționează aproape, dar nu chiar acolo",
             "e.g. AngularJS": "ex. AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "Nu s-a putut salva fișierul",
+        "invalid_format": "Fișierul nu este un fișier JSON Resume valid",
+        "file_saved": "Fișierul a fost salvat!",
+        "loading_contents_wait": "Se încarcă conținutul, vă rugăm să așteptați",
+        "save_here": "Salvează aici",
+        "export_here": "Exportă aici",
+        "click_to_load": "Faceți clic pe fișier pentru a-l încărca",
+        "file": "Fișier"
     }
 }

@@ -134,7 +134,13 @@
             "present": "Obecnie",
             "na": "N/A",
             "reorder_entries": "Przestaw wpisy według daty",
-            "go_top": "Idź na Górę"
+            "go_top": "Idź na Górę",
+            "change_theme_parameters": "Zmień parametry motywu",
+            "reset_defaults": "Przywróć ustawienia domyślne",
+            "close": "Zamknij",
+            "store_to": "Zapisz do",
+            "storage": "Przechowywanie",
+            "style": "Styl"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Menu Akcji",
-                    "description": "Tutaj możesz załadować swoje CV w formacie json z pliku, zapisać zmiany do pliku json, wyeksportować swoje CV jako html lub wyczyścić formularz i zacząć od nowa."
+                    "description": "[p]Tutaj możesz załadować, zapisać i wyeksportować swoje CV lub wyczyścić formularz i zacząć od nowa.[/p][p]Możesz także wybrać język, zmienić miejsce przechowywania swojego CV i zmienić motyw.[/p]"
                 },
                 {
                     "title": "Zobacz swoje CV",
@@ -160,10 +166,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "Style",
-                    "description": "Zmień wygląd CV. Wybierz motyw, który pasuje do twojego stylu."
-                },
                 {
                     "title": "Edytor",
                     "description": "Wróć do edytora stąd"
@@ -214,5 +216,15 @@
             "e.g. Directs you close but not quite there": "np. Prowadzi cię blisko, ale nie całkiem tam",
             "e.g. AngularJS": "np. AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "Nie można zapisać pliku",
+        "invalid_format": "Plik nie jest prawidłowym plikiem JSON Resume",
+        "file_saved": "Plik został zapisany!",
+        "loading_contents_wait": "Ładowanie zawartości, proszę czekać",
+        "save_here": "Zapisz tutaj",
+        "export_here": "Eksportuj tutaj",
+        "click_to_load": "Kliknij na plik, aby go załadować",
+        "file": "Plik"
     }
 }

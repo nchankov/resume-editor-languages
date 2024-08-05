@@ -134,7 +134,13 @@
             "present": "Gegenwärtig",
             "na": "N/A",
             "reorder_entries": "Einträge nach Datum neu ordnen",
-            "go_top": "Nach oben"
+            "go_top": "Nach oben",
+            "change_theme_parameters": "Themenparameter ändern",
+            "reset_defaults": "Zurücksetzen",
+            "close": "Schließen",
+            "store_to": "Speichern in",
+            "storage": "Speicher",
+            "style": "Stil"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Aktionsmenü",
-                    "description": "Hier können Sie Ihren JSON-Lebenslauf aus einer Datei laden, die Änderungen in eine JSON-Datei zurückspeichern, Ihren Lebenslauf als HTML exportieren oder das Formular löschen und von vorne beginnen."
+                    "description": "[p]Hier können Sie Ihren Lebenslauf laden, speichern und exportieren oder das Formular löschen und von vorne beginnen.[/p][p]Außerdem können Sie die Sprache auswählen, den Speicherort für Ihren Lebenslauf ändern und das Thema ändern.[/p]"
                 },
                 {
                     "title": "Ansicht Ihres Lebenslaufs",
@@ -160,10 +166,6 @@
                 }
             ],
             "view": [
-                {
-                    "title": "Stile",
-                    "description": "Ändern Sie das Erscheinungsbild des Lebenslaufs. Wählen Sie ein Thema, das Ihrem Stil entspricht."
-                },
                 {
                     "title": "Editor",
                     "description": "Von hier aus zum Editor zurückkehren"
@@ -214,5 +216,15 @@
             "e.g. Directs you close but not quite there": "z.B. Führt Sie nah heran, aber nicht ganz dort",
             "e.g. AngularJS": "z.B. AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "Die Datei konnte nicht gespeichert werden",
+        "invalid_format": "Die Datei ist keine gültige JSON Resume-Datei",
+        "file_saved": "Die Datei wurde gespeichert!",
+        "loading_contents_wait": "Inhalte werden geladen, bitte warten",
+        "save_here": "Hier speichern",
+        "export_here": "Hier exportieren",
+        "click_to_load": "Klicken Sie auf die Datei, um sie zu laden",
+        "file": "Datei"
     }
 }

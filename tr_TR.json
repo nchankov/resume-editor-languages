@@ -134,7 +134,13 @@
             "present": "Güncel",
             "na": "N/A",
             "reorder_entries": "Girişleri tarihe göre yeniden sıralayın",
-            "go_top": "En Üste Git"
+            "go_top": "En Üste Git",
+            "change_theme_parameters": "Tema Parametrelerini Değiştir",
+            "reset_defaults": "Sıfırla",
+            "close": "Kapat",
+            "store_to": "Şuna Kaydet",
+            "storage": "Depolama",
+            "style": "Stil"
         },
         "help": {
             "modal": {
@@ -148,7 +154,7 @@
                 },
                 {
                     "title": "Eylem Menüsü",
-                    "description": "Buradan özgeçmişinizi yükleyebilir, kaydedebilir, dışa aktarabilir veya temizleyebilirsiniz. Ayrıca özgeçmişinizin temasını değiştirebilirsiniz."
+                    "description": "[p]Burada özgeçmişinizi yükleyebilir, kaydedebilir ve dışa aktarabilirsiniz veya formu temizleyip yeniden başlayabilirsiniz.[/p][p]Ayrıca dili seçebilir, özgeçmişinizi saklayacağınız yeri değiştirebilir ve temayı değiştirebilirsiniz.[/p]"
                 },
                 {
                     "title": "Düzenleme veya Görüntüleme",
@@ -157,6 +163,12 @@
                 {
                     "title": "Tema Seçimi",
                     "description": "Özgeçmişinizin görünümünü değiştirmek için çeşitli temalar arasından seçim yapabilirsiniz. Temalar, özgeçmişinizin işverenlere nasıl görüneceğini değiştirir."
+                }
+            ],
+            "view": [
+                {
+                    "title": "Düzenleyici",
+                    "description": "Buradan düzenleyiciye geri dönün"
                 }
             ]
         },
@@ -204,5 +216,15 @@
             "e.g. Directs you close but not quite there": "örn. Sizi yakınlaştırır ama tam olarak oraya yönlendirmez",
             "e.g. AngularJS": "örn. AngularJS"
         }
+    },
+    "dropbox": {
+        "coult_not_save": "Dosya kaydedilemedi",
+        "invalid_format": "Dosya geçerli bir JSON Resume dosyası değil",
+        "file_saved": "Dosya kaydedildi!",
+        "loading_contents_wait": "İçerikler yükleniyor, lütfen bekleyin",
+        "save_here": "Buraya Kaydet",
+        "export_here": "Buraya Dışa Aktar",
+        "click_to_load": "Dosyayı yüklemek için tıklayın",
+        "file": "Dosya"
     }
 }
