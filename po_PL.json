@@ -114,6 +114,8 @@
             "menu_load": "Załaduj z pliku",
             "menu_save": "Zapisz do pliku",
             "menu_export": "Eksportuj jako HTML",
+            "menu_print": "Drukuj do PDF",
+            "menu_print_hint": "Otwiera okno drukowania przeglądarki — najlepszy sposób na uzyskanie prawdziwego pliku PDF z zachowanym tekstem i wyglądem Twojego CV. Wybierz „Zapisz jako PDF” jako miejsce docelowe.",
             "menu_clear": "Wyczyść formularz",
             "select_style": "Wybierz motyw",
             "next": "Dalej",

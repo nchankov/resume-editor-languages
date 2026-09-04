@@ -114,6 +114,8 @@
             "menu_load": "Dosyadan Yükle",
             "menu_save": "Dosyaya Kaydet",
             "menu_export": "HTML Olarak Dışa Aktar",
+            "menu_print": "PDF olarak yazdır",
+            "menu_print_hint": "Tarayıcınızın yazdırma penceresini açar — özgeçmişinizin metnini ve görünümünü koruyan düzgün bir PDF elde etmenin en iyi yolu. Hedef olarak “PDF olarak kaydet” seçeneğini seçin.",
             "menu_clear": "Formu Temizle",
             "select_style": "Tema Seç",
             "next": "İleri",

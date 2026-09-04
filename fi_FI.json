@@ -114,6 +114,8 @@
             "menu_load": "Lataa tiedostosta",
             "menu_save": "Tallenna tiedostoon",
             "menu_export": "Vie HTML-muodossa",
+            "menu_print": "Tulosta PDF-tiedostoksi",
+            "menu_print_hint": "Avaa selaimesi tulostusikkunan — paras tapa saada kunnollinen PDF, jossa ansioluettelosi teksti ja ulkoasu säilyvät. Valitse kohteeksi ”Tallenna PDF-tiedostona”.",
             "menu_clear": "Tyhjennä lomake",
             "select_style": "Valitse teema",
             "next": "Seuraava",

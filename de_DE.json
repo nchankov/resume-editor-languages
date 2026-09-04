@@ -114,6 +114,8 @@
             "menu_load": "Aus Datei laden",
             "menu_save": "In Datei speichern",
             "menu_export": "Als HTML exportieren",
+            "menu_print": "Als PDF drucken",
+            "menu_print_hint": "Öffnet den Druckdialog Ihres Browsers — der beste Weg zu einem richtigen PDF, bei dem Text und Aussehen Ihres Lebenslaufs erhalten bleiben. Wählen Sie „Als PDF speichern“ als Ziel.",
             "menu_clear": "Formular löschen",
             "select_style": "Thema auswählen",
             "next": "Weiter",

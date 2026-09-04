@@ -112,6 +112,8 @@
             "menu_load": "ファイルから読み込む",
             "menu_save": "ファイルに保存",
             "menu_export": "HTMLとしてエクスポート",
+            "menu_print": "PDFに印刷",
+            "menu_print_hint": "ブラウザの印刷ダイアログを開きます — 履歴書のテキストと見た目を保ったまま、きちんとしたPDFを作成する最善の方法です。出力先として「PDFに保存」を選択してください。",
             "menu_clear": "フォームをクリア",
             "select_style": "テーマを選択",
             "next": "次へ",

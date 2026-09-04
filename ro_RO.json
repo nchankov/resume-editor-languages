@@ -114,6 +114,8 @@
             "menu_load": "Încarcă din fișier",
             "menu_save": "Salvează în fișier",
             "menu_export": "Exportă ca HTML",
+            "menu_print": "Tipărește în PDF",
+            "menu_print_hint": "Deschide fereastra de tipărire a browserului tău — cea mai bună modalitate de a obține un PDF adevărat, păstrând textul și aspectul CV-ului tău. Alege „Salvare ca PDF” ca destinație.",
             "menu_clear": "Șterge formularul",
             "select_style": "Selectează tema",
             "next": "Următorul",

@@ -114,6 +114,8 @@
             "menu_load": "从文件加载",
             "menu_save": "保存到文件",
             "menu_export": "导出为HTML",
+            "menu_print": "打印为 PDF",
+            "menu_print_hint": "打开浏览器的打印对话框 — 这是获得优质 PDF 的最佳方式，可保留简历的文字和外观。请在目标打印机中选择“另存为 PDF”。",
             "menu_clear": "清除表单",
             "select_style": "选择主题",
             "next": "下一步",

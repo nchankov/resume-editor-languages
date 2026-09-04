@@ -114,6 +114,8 @@
             "menu_load": "Load from file",
             "menu_save": "Save to file",
             "menu_export": "Export as HTML",
+            "menu_print": "Print to PDF",
+            "menu_print_hint": "Opens your browser's print dialogue — the best way to get a proper PDF, with the text and the look of your CV preserved. Choose \"Save as PDF\" as the destination.",
             "menu_clear": "Clear the form ",
             "select_style": "Select theme",
             "next": "Next",

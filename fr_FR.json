@@ -114,6 +114,8 @@
             "menu_load": "Charger depuis un fichier",
             "menu_save": "Enregistrer dans un fichier",
             "menu_export": "Exporter en HTML",
+            "menu_print": "Imprimer en PDF",
+            "menu_print_hint": "Ouvre la boîte de dialogue d'impression de votre navigateur — le meilleur moyen d'obtenir un vrai PDF, en conservant le texte et l'apparence de votre CV. Choisissez « Enregistrer au format PDF » comme destination.",
             "menu_clear": "Effacer le formulaire",
             "select_style": "Sélectionner le thème",
             "next": "Suivant",
